@@ -12,4 +12,4 @@ I'm a Postgradute Student in [MC^2 Lab](http://buaamc2.net/) at Beihang Universi
   </a>
 </p>
 
-## 😄 Nice and Passinate !
+## 😄 Nice and Passionate !
