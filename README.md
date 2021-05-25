@@ -8,7 +8,7 @@ I'm a Postgradute Student in [MC^2 Lab](http://buaamc2.net/) at Beihang Universi
 
 <p align="center">
   <a href="https://github.com/ytZhang99" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=ytZhang99&&hide=prs,issues&title_color=333&text_color=777" alt="zyt's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=ytZhang99&&hide=prs,issues,contribs&title_color=333&text_color=777" alt="zyt's Stats" >
   </a>
 </p>
 
