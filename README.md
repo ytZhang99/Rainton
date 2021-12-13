@@ -6,6 +6,7 @@ I'm a Postgradute Student in [MC^2 Lab](http://buaamc2.net/) at Beihang Universi
 ### Paper implementations:
 - [U2Fusion](https://github.com/ytZhang99/U2Fusion-pytorch): A unified network for multi-modal image fusion. (TPAMI 2021)
 - [CU-Net](https://github.com/ytZhang99/Pytorch_cu_net) : An interpretable network for multi-modal image restoration and fusion. (TPAMI 2020)
+- [AHDRNet](https://github.com/ytZhang99/AHDRNet-PyTorch) : An attention network for ghost-free HDR imaging. (CVPR 2019)
 
 ### Academic Collections:
 - [Awesome-HDR](https://github.com/ytZhang99/Awesome-HDR): A collection of HDR imaging papers and codes read and selected by myself.
