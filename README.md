@@ -1,5 +1,5 @@
 ## Hi, I'm Zhang Yutong, nice to see you !👋
-I'm a Postgradute Student in [MC^2 Lab](http://buaamc2.net/) at Beihang University, working on multi-modal image processing and other computer vision tasks.
+I'm a Postgradute Student in [MC^2 Lab](http://buaamc2.net/) at Beihang University, working on High Dynamic Range Imaging (HDR), Multi-modal Image Restoration (MIR) and other computer vision tasks.
 ### Official repositories:
 - [CF-Net](https://github.com/ytZhang99/CF-Net) : Achieving multi-exposure fusion and image super-resolution simultaniously by exploring the latent relationship between the two tasks. (TIP 2021)
 
